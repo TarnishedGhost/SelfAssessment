@@ -1,41 +1,41 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - try..catch
+  - Event loop 🎓 known
+  - try..catch 🎓 known
   - Non-blocking
   - Async I/O
-  - Thread pool
+  - Thread pool 🎓 known
   - Pattern Reactor
   - CAS operations
   - epoll
   - kqueue
-  - Completion ports
-  - Event ports
+  - Completion ports 🎓 known
+  - Event ports 🎓 known
   - libuv
   - Race conditions
   - Dead locks
   - Live locks
-  - Concurrent programming
-  - Parallel programming
+  - Concurrent programming 🎓 known
+  - Parallel programming 🎓 known
   - Actor Model
-  - Thread
-  - Process
+  - Thread 🎓 known
+  - Process 🎓 known
 - Async contracts
-  - Callbacks
+  - Callbacks 🎓 known
   - Callback-last-error-first
   - Thenable
-  - Promise
-  - Async/await
+  - Promise 🎓 known
+  - Async/await 🎓 known
   - Future
   - Deferred
   - Sync generator
-  - Async Generator
-  - Async Iterator
-  - Event
+  - Async Generator 🎓 known
+  - Async Iterator 🎓 known
+  - Event 🎓 known
   - Coroutine
   - Goroutine
-  - Signal
+  - Signal 🎓 known
   - Stream
   - Chain of responsibility
   - Middleware
@@ -47,26 +47,26 @@
   - callbacks compose
   - async compose
 - Async abstractions interfaces
-  - EventEmitter
+  - EventEmitter 🎓 known
   - Observable/Observer
   - Readable
   - Writable
   - Transform
-  - Async Pool
-  - Async Queue
+  - Async Pool 🎓 known
+  - Async Queue 🎓 known
   - Async Collector
   - Semaphore
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
-  - setImmediate
+  - Timers 🎓 known
+  - setImmediate 🎓 known
   - nextTick
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
-  - child_process
+  - child_process 👂 heard
   - worker_threads
   - Atomics
   - High resolution clock
@@ -84,10 +84,10 @@
   - async.js library
   - RxJS library
   - Async composition
-  - Promise.all
+  - Promise.all 🎓 known
   - Promise.allSettled
   - Promise.race
-  - Promise.any
+  - Promise.any 🎓 known
   - Web Locks API
   - IPC
   - Channel API
